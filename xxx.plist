@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_social_white_squircle.svg</string>
+					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://upload.wikimedia.org/wikipedia/commons/4/4f/YouTube_social_white_squircle.svg</string>
+					<string>http://xxxxxxxxxxxxxxxxxx.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>youtube/string>
+				<string>XXXX App download</string>
 			</dict>
 		</dict>
 	</array>
